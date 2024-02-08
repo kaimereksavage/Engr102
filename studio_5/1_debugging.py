@@ -11,6 +11,7 @@ def main():
 
     # put a breakpoint on the line below (click to the left of the number 11 on the side)
     secret_password = decrypt('TQK KAG RAGZP FTQ OAPQ', 12)
+    print('hi')
 
     # When you run the code in debug mode it will stop on that line.
     # You'll see the various variables on the side, as well as a debug menu at the top.
